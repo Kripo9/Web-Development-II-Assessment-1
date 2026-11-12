@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Teko&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #231651;
+  font-family: 'Lato', sans-serif;
+}
+
+h1, button {
+  font-family: 'Teko', sans-serif;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
